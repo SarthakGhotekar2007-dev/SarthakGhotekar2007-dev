@@ -1,16 +1,16 @@
-# 💫 Hi 👋, I'm Sarthak Ghotekar
+# Hi , I'm Sarthak Ghotekar
 
 **A passionate AI Full Stack Developer || Flutter Developer from India 🇮🇳**
 
 I’m a BCA student and an intern at **The Baap Company**, currently focused on building practical web and mobile applications.
 
-* 🔭 **I’m currently working on:** Full Stack Web Applications & AI-powered Projects
-* 🌱 **I’m currently learning:** Flutter, Dart, FastAPI, AI & RAG
-* 👯 **I’m looking to collaborate on:** React, FastAPI, AI & Open Source Projects
-* 🤔 **I’m looking for help with:** Advanced Backend Development, AI & System Design
-* 💬 **Ask me about:** React, Python, FastAPI, PostgreSQL, Flutter & Dart
-* 📫 **How to reach me:** Through LinkedIn or Email
-* ⚡ **Fun fact:** I love turning ideas into real-world applications and learning something new every day. 🚀
+*  **I’m currently working on:** Full Stack Web Applications & AI-powered Projects
+*  **I’m currently learning:** Flutter, Dart, FastAPI, AI & RAG
+*  **I’m looking to collaborate on:** React, FastAPI, AI & Open Source Projects
+*  **I’m looking for help with:** Advanced Backend Development, AI & System Design
+*  **Ask me about:** React, Python, FastAPI, PostgreSQL, Flutter & Dart
+*  **How to reach me:** Through LinkedIn or Email
+*  **Fun fact:** I love turning ideas into real-world applications and learning something new every day. 🚀
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/sarthak-ghotekar-137845389) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sarthakghotekar8055@gmail.com) 
